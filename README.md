@@ -1,2 +1,2 @@
-# python_scripts
-🐍 Collection Of Python Scripts
+# Python Scripts
+A collection of Python scripts.
